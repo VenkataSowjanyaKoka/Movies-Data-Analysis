@@ -282,13 +282,3 @@ New_Movies_DF['title','year','age_category'].show(10)
 ```python
 
 ```
-
-
-```python
-
-```
-
-
-```python
-
-```
