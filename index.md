@@ -1,5 +1,7 @@
+# For structured data we use Spark SQL, SparkSession acts a pipeline between data and statements accessing the data
+
 ```python
-#for structured data we use Spark SQL, SparkSession acts a pipeline between data and statements accessing the data
+
 from pyspark.sql import SparkSession 
 ```
 
